@@ -3,12 +3,12 @@
 Before I started trying to understand about useful attributes from the source data, I first retrieved the data and checked to see if there was any missing data and do some data clean-up .
 
 From the source, I was able to see there were several missing data:
-- car                     12576
-- Bar                       107
-- CoffeeHouse               217
-- CarryAway                 151
-- RestaurantLessThan20      130
-- Restaurant20To50          189
+- car: 12576
+- Bar: 107
+- CoffeeHouse: 217
+- CarryAway: 151
+- RestaurantLessThan20: 130
+- Restaurant20To50: 189
 
 ## Data Clean-up
 
